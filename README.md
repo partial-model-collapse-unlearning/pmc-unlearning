@@ -95,7 +95,7 @@ Please cite our paper if you use this code in your own work:
 ```
 @misc{scholten2025modelcollapse,
       title={Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs}, 
-      author={Yan Scholten and Sophie Xhonneux and Leo Schwinn and Stephan Günnemann},
+      author={Yan Scholten and Sophie Xhonneux and Leo Schwinn and Stephan G{\"u}nnemann},
       year={2025},
       eprint={2507.04219},
       archivePrefix={arXiv},
